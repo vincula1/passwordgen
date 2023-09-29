@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # passwordgen
 
 ## Description
@@ -8,3 +9,6 @@ This is a password generator that asks you to specify the number of characters y
 ![Screenshot of Website](./Assets/03-javascript-homework-demo.png)
 
 [Link to Website](https://vincula1.github.io/passwordgen/Develop/)
+=======
+# passwordgen
+>>>>>>> c81862c (Adding code to make password gen work)
